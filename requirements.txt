@@ -1,0 +1,3 @@
+can-j1939==2.0.12
+python-can==4.2.2
+matplotlib==3.7.2
